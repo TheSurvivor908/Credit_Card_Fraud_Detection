@@ -1,7 +1,7 @@
 # Fraud-Detection
 
 ## Overview
-This project aims to detect fraud transaction that can harm any company profits. with machine learning, we can detect fraud transactions to prevent any fraud transaction in the future
+This project aims to detect fraud transaction that can harm company profits. with machine learning, we can detect fraud transactions to prevent any fraud transaction in the future
 
 ## Dataset
 - Data source : Kaggle
